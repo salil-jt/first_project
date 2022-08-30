@@ -13,5 +13,5 @@ public static void main(String[] args) {
 }
 
 
-This is first project
+This is first project on git
 Adding second line for a new commit
